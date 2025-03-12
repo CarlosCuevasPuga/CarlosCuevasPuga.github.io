@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    position: fixed;
+    left: 0px;
+    width: 100%;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    padding-right: 0.5rem;
+
+}
